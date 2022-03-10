@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: RePADAH4yHzDAKh-gEsDxPFK9hQe32l4p4t8Cqryww8
+langcode: en
+uuid: 771ce856-7941-4ef4-96e9-46d555660a36
+name: 'Amber Matz'
+mail: agentolivia@gmail.com
+slogan: 'My blog'
+page:
+  403: /403
+  404: /404
+  front: /home
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en

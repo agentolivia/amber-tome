@@ -1,0 +1,104 @@
+{
+    "uuid": [
+        {
+            "value": "d7de2add-deac-4b3b-b617-1f0fa401ffd3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a0ae49b0-4552-452f-b863-3f180a8dffe5"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-03-10T01:45:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3bfaa977-2a53-476b-a24c-28ae1db8615a"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "bc3135de-ab3b-4508-b6a8-f9dbdcd9ca94"
+        }
+    ],
+    "title": [
+        {
+            "value": "About"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-03-10T01:13:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-03-10T01:45:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/about",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Currently, most of my time is spent working from home at the fully-distributed company, Osio Labs, where I create and manage content and try to continually improve learner experience for our flagship product, Drupalize.Me. I contribute to the open source project, Drupal, where I am co-maintainer of the core experimental module, Help Topics. During the pandemic, we stopped eating out, which means that I am continually learning new cooking skills, techniques, and recipes (not to mention rockin' the Drive Up and Go\u2122 at my local Safeway). I play the accordion. I take weekly lessons and am also learning to arrange music for accordion. I've been learning to use MuseScore as part of that. I crochet, but not as much as I used to. I do teach my nephew how to crochet over Zoom though, which has been a lot of fun. I have a technical background as a web developer and I've been known to tinker with electronics from time to time. It's something I wish I had more time to do. I read a lot. Tutorials, documentation, novels, The Internet, non-fiction, in that order (usually). I enjoy gardening, photography, and camping, but I don't always get to it. I wish I had more time to practice writing. Which is one of the reasons why I made this site.<\/p>",
+            "format": "rich_text",
+            "summary": ""
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "A black and white ink drawing of a woman playing the accordion and singing.",
+            "title": "",
+            "width": 350,
+            "height": 350,
+            "target_type": "file",
+            "target_uuid": "66509c43-b7bb-44a7-b51d-2b79ddc8e4ea"
+        }
+    ]
+}

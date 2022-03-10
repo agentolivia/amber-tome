@@ -1,0 +1,60 @@
+{
+    "uuid": [
+        {
+            "value": "66509c43-b7bb-44a7-b51d-2b79ddc8e4ea"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3bfaa977-2a53-476b-a24c-28ae1db8615a"
+        }
+    ],
+    "filename": [
+        {
+            "value": "accordion-chibi-profile.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-03\/accordion-chibi-profile.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 61309
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-03-10T01:43:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-03-10T01:45:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "bookish_image_data": [
+        {
+            "value": "{\"brightness\":36,\"contrast\":-8,\"saturation\":-49,\"blur\":0,\"grayscale\":1,\"hue\":0,\"red\":0,\"green\":0,\"blue\":0,\"focal_point\":[175,175],\"zoom\":0}"
+        }
+    ]
+}
